@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex, also known as Shykaro
 - 👀 I’m interested in Game and Web developing, as well as other creative processes
 - 🌱 I’m currently learning more on Game design, as well as web developing. I'm also studying Online Media at a german university right now.
-- ✨ I’m looking to collaborate on Games, Webdesign and photo as well as video editing
+- ✨ My expertise is in Gamedesign, Webdevelopement, Photo and Videoediting. I'm happy to collaborate on everything regarding creative processes!
 - 📫 Have a deeper look on my reference page
 
 <!---
