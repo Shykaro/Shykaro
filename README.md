@@ -6,7 +6,7 @@
 
 - :bulb: I'm also gladly open to collaborate on everything regarding creative processes! :bulb:
 
-- :clipboard: Interested to learn more or get in contact? Have a deeper look on my reference page here [https://www.linkedin.com/in/alexanderthshykaro/]. :clipboard:
+- :clipboard: Interested to learn more or get in contact? Have a deeper look on my reference page here [https://www.linkedin.com/in/alexanderthier/]. :clipboard:
 
 <!---
 Cut out:
